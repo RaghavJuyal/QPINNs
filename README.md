@@ -4,7 +4,7 @@ The repository contains our code creating the QPINN from scratch using Cirq.
 
 Our code using Qadence can be found [here](https://colab.research.google.com/drive/1yCzDVGIvsBEXj32tPoneZWtSZtsAxntq?usp=sharing), and the graphs of this code can be found [here](https://drive.google.com/drive/folders/1lB5vyeX76XQs2MZ09DoFeeJVA-_Ps1qo).
 
-The final presentation can be found [here](https://docs.google.com/presentation/d/1QlrP7pto1kqesuXmJo-X1kUBHwpxkuzB4mAm4pjolmU/edit?usp=sharing)
+The final presentation can be found [here](https://docs.google.com/presentation/d/1QlrP7pto1kqesuXmJo-X1kUBHwpxkuzB4mAm4pjolmU/edit?usp=sharing).
 
 We used the following as references for this project:
 
