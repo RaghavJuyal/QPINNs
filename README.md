@@ -1,4 +1,4 @@
-Repository for the group project on Quantum physics-informed neural networks. For the QIST4320 Quantum Computation and Quantum Programming course in TU Delft and Leiden University.
+Repository for the group project on Quantum physics-informed neural networks. For the QIST4320 Quantum Computation and Quantum Programming course in TU Delft.
 
 The repository contains our code creating the QPINN from scratch using Cirq.
 
